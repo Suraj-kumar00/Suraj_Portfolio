@@ -1,2 +1,1 @@
-# Suraj_Portfolio
-Single-page developer portfolio
+## Single-page developer portfolio
